@@ -13,6 +13,11 @@ public class StringMethods {
 
 	}
 	
+	private void M3Tester03() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	public static void main(String[] args) {
 		
 		String s = "Daily Practice id Must";
